@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'AgilityApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E87CDA8AE38D4BFB965AA75AA6800FCF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E62FDF7023544D399F012CAA799C1BF }}
           package: .
